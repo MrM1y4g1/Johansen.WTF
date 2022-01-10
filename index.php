@@ -67,7 +67,7 @@
 		</video>
 		<div class="centered">
 			<img class="logo" src="/assets/logo.png" /><br />
-			<a><strong id="icanhazdadjoke">Today, my son asked &#x22;Can I have a book mark?&#x22; and I burst into tears. 11 years old and he still doesn&#x27;t know my name is Brian.</strong></a>
+			<a><strong id="icanhazdadjoke">&nbsp;</strong></a>
 		</div>
 		
 		<script src="/assets/scripts.js"></script>
