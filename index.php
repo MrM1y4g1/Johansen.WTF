@@ -23,7 +23,7 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png">
 		
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=overpass">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass">
 		<style type="text/css">
 			body {
 				font-family: 'Overpass', sans-serif;
