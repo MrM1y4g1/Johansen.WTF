@@ -1,4 +1,6 @@
-<!DOCTYPE HTML>
+<?php
+	header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + (60 * 60 * 24))); // 1 hour
+?><!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Johansen.WTF</title>
