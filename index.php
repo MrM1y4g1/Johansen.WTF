@@ -24,8 +24,13 @@
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png">
 		
-		<link href="https://fonts.googleapis.com/css?family=Overpass" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=overpass" rel="stylesheet">
 		<style type="text/css">
+			@font-face {
+				font-family: Overpass;
+				src: url("fonts/OverpassMono-VariableFont_wght.ttf");
+			}
+
 			body {
 				font-family: 'Overpass', sans-serif;
 				color: #FFFFFF;
