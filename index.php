@@ -1,6 +1,4 @@
-<?php
-	header('Expires: '.gmdate('D, d M Y H:i:s \G\M\T', time() + (60 * 60 * 24))); // 1 hour
-?><!DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html>
 	<head>
 		<title>Johansen.WTF</title>
@@ -22,6 +20,7 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png">
+		<link rel="manifest" href="/assets/manifest.json">
 		
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass">
 		<style type="text/css">
