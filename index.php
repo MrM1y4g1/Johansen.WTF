@@ -20,42 +20,11 @@
 		<link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
 		<meta name="msapplication-TileColor" content="#ffffff">
 		<meta name="msapplication-TileImage" content="/assets/ms-icon-144x144.png">
+		
 		<link rel="manifest" href="/assets/manifest.json">
 		
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Overpass">
-		<style type="text/css">
-			body {
-				font-family: 'Overpass', sans-serif;
-				color: #FFFFFF;
-			}
-			video {
-			  position: fixed;
-			  right: 0;
-			  bottom: 0;
-			  min-width: 100%; 
-			  min-height: 100%;
-				transform: translateX(calc((100% - 100vw) / 2));
-			}
-			
-			.centered {
-			  position: fixed;
-			  top: 50%;
-			  left: 50%;
-			  transform: translate(-50%, -50%);
-			  text-align:center;
-			}
-			
-			img.logo {
-				max-width: 100%;
-				height: auto;
-			}
-			
-			img.teamviewer {
-				position: absolute;
-				bottom: 15px;
-				right: 15px;
-			}
-		</style>
+		<link rel="stylesheet" href="/assets/styles.css">
 	</head>
 	<body>
 		<video class="lazy" autoplay muted loop id="myVideo" poster="/assets/background.jpeg">
